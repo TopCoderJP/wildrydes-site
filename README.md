@@ -109,7 +109,7 @@ function errorResponse(errorMessage, awsRequestId) {
 ```
 
 ## The Lambda Function Test Function
-Here is the code used to test the Lambda function:
+Here is the code used to test the Lambda function / こちらはLambda関数をテストするために使用されたコードです:
 
 ```json
 {
